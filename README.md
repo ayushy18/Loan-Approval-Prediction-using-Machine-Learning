@@ -15,9 +15,8 @@
 - [▶️ Run the Project](#️-run-the-project)
 - [📁 Project Structure](#-project-structure)
 - [🧰 Requirements](#-requirements)
-- [🚀 Future Improvements](#-future-improvements)
-- [📝 Credits & References](#-credits--references)
-- [📜 License & Contact](#-license--contact)
+
+  
 
 ---
 
