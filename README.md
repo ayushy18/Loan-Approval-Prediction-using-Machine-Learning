@@ -15,6 +15,8 @@
 - [▶️ Run the Project](#️-run-the-project)
 - [📁 Project Structure](#-project-structure)
 - [🧰 Requirements](#-requirements)
+- [🚀Future Improvements(#-Future-Improvements)
+- 
 
   
 
@@ -179,23 +181,11 @@ jupyter
 - ⚡ Try **XGBoost**, **LightGBM**, or **CatBoost**.  
 - 🌐 Deploy a **Streamlit Web App** for live loan predictions.  
 - 🧾 Add **model interpretability** via SHAP / LIME.  
-
----
-
-## 📝 Credits & References
-
-🙏 **Inspired by:**  
-📘 [GeeksforGeeks: Loan Approval Prediction using Machine Learning](https://www.geeksforgeeks.org/machine-learning/loan-approval-prediction-using-machine-learning/)  
-
-💻 **Developed by:** [Your Name]  
-📅 **Year:** 2025  
-
 ---
 
 ## 🧾 Footer
 Developed with ️
 👨‍💻 Team Members:
-
 Ayush Yadav
 🎓 B.Tech Computer Science (Data Science & AI)
 202210101150081
