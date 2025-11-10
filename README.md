@@ -51,8 +51,7 @@ The dataset contains 13 columns describing the applicant and loan attributes:
 | Loan_Status | Target (Y/N) |
 | Loan_ID | Identifier (dropped) |
 
-📚 *Dataset inspired by [GeeksforGeeks: Loan Approval Prediction using ML](https://www.geeksforgeeks.org/machine-learning/loan-approval-prediction-using-machine-learning/)*
-
+📚 *Dataset link : (https://drive.google.com/file/d/1Q2lgJVcRgHTdg1vXWGK8d4JuqI0NrMy5/view?usp=sharing)*
 ---
 
 ## 📘 Notebook Workflow
