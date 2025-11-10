@@ -194,13 +194,16 @@ jupyter
 
 ---
 
-## 📜 License & Contact
+## 🧾 Footer
+Developed with ️
+👨‍💻 Team Members:
 
-🪪 **License:** MIT — free to use, modify, and share.  
-💬 **Contact:** Feel free to connect or raise issues/suggestions in the repo!  
-
+Ayush Yadav
+🎓 B.Tech Computer Science (Data Science & AI)
+202210101150081
+Suyash Sharma
+🎓 B.Tech Computer Science (Data Science & AI)
+202210101150076
 ---
 
 🎉 *Thanks for visiting this project!*  
-⭐ If you like it — don’t forget to **Star** 🌟 this repository on GitHub!  
-💬 Feedback and contributions are always welcome 💖
