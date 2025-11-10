@@ -15,9 +15,7 @@
 - [▶️ Run the Project](#️-run-the-project)
 - [📁 Project Structure](#-project-structure)
 - [🧰 Requirements](#-requirements)
-- [🚀Future Improvements(#-Future-Improvements)
-- 
-
+  
   
 
 ---
@@ -167,20 +165,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
-```
-
----
-
-## 🚀 Future Improvements
-
-✨ Make it even better:
-- 🔁 Apply **One-Hot Encoding** instead of Label Encoding.  
-- ⚖️ Add **class imbalance handling** (SMOTE, class weights).  
-- 🎯 Use **k-fold Cross Validation** for more robust performance.  
-- 🧠 Tune hyperparameters using **GridSearchCV**.  
-- ⚡ Try **XGBoost**, **LightGBM**, or **CatBoost**.  
-- 🌐 Deploy a **Streamlit Web App** for live loan predictions.  
-- 🧾 Add **model interpretability** via SHAP / LIME.  
+  
 ---
 
 ## 🧾 Footer
