@@ -164,19 +164,15 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
+jupyter notebook
   
 ---
 
 ## 🧾 Footer
-Developed with ️
-👨‍💻 Team Members:
+Developed By:
 Ayush Yadav
 🎓 B.Tech Computer Science (Data Science & AI)
 202210101150081
-Suyash Sharma
-🎓 B.Tech Computer Science (Data Science & AI)
-202210101150076
 ---
 
 🎉 *Thanks for visiting this project!*  
